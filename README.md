@@ -13,4 +13,4 @@
 
 ----
 
-Workdays in P.R.China; query `'https://tiansh.github.io/gzr/'yyyy/M/d'.json'`, response json will be `{"isWorkday":false}` or `{"isWorkday":true}`. Support year 2019-2024. Only national holidays are inclcuded.
+Workdays in P.R.China; query `'https://tiansh.github.io/gzr/'yyyy/M/d'.json'`, response json will be `{"isWorkday":false}` or `{"isWorkday":true}`. Support year 2019-2025. Only national holidays are inclcuded.
